@@ -1,2 +1,3 @@
-# PrepCourse-Henry-2023
-Este es un repositorio de prueba del modulo2 de henry
+Mario Montenegro
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio
